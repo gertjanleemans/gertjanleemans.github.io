@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"split",
+				"splitStrings"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"categ",
+				"categorySlug"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"rsu",
+				"results"
+			],
+			[
+				"scan",
+				"scanFrom"
+			],
+			[
+				"eq",
+				"equals"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"sub",
+				"subPromises"
+			],
+			[
+				"numb",
+				"numberOfAds"
+			],
+			[
+				"para",
+				"paragraphs"
+			],
+			[
+				"chan",
+				"chance"
+			],
+			[
+				"catg",
+				"category"
+			],
+			[
+				"prom",
+				"promises"
+			],
+			[
+				"strig",
+				"string_to_slug"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"User",
+				"user"
+			],
+			[
+				"U",
+				"UserRouting"
+			],
+			[
+				"server",
+				"serverFile"
+			],
+			[
+				"serv",
+				"SERVER_PORT"
+			],
+			[
+				"data",
+				"data-bind"
+			],
+			[
+				"n",
+				"nth-of-type"
+			],
+			[
+				"out",
+				"outset"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ge",
+				"getShareUrl()"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"sele",
+				"selectedIndex	(str)"
+			],
+			[
+				"selec",
+				"selectionIds	[]"
+			],
+			[
+				"inde",
+				"indexElement	(num)"
+			],
+			[
+				"start",
+				"startWithQuery(query)"
+			],
+			[
+				"dark",
+				"color-dark"
+			],
+			[
+				"windo",
+				"windowWidth	(?)"
+			],
+			[
+				"path",
+				"pathParts	(?)"
+			],
+			[
+				"par",
+				"parts	(?)"
+			],
+			[
+				"hidd",
+				"hidden-opacity"
+			],
+			[
+				"gradien",
+				"gradient-multistop"
+			],
+			[
+				"color",
+				"color-stop"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backgroun",
+				"background-overlay"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"choi",
+				"choice"
+			],
+			[
+				"choic",
+				"choice-wrapper"
+			],
+			[
+				"color-",
+				"color-light"
+			],
+			[
+				"parse",
+				"parseInt(string, radix?)"
+			],
+			[
+				"sel",
+				"selectionIds	[]"
+			],
+			[
+				"wrapper",
+				"wrapper"
+			],
+			[
+				"platform",
+				"platformIphoneSelected	(bool)"
+			],
+			[
+				"platformi",
+				"platformIphoneSelected	(bool)"
+			],
+			[
+				"col",
+				"color-orange"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"colo",
+				"color-gray"
+			],
+			[
+				"q",
+				"Query"
+			],
+			[
+				"get",
+				"getSessionToken"
+			],
+			[
+				"ret",
+				"restrictedAcl"
+			],
+			[
+				"p",
+				"push(newelt)"
+			],
+			[
+				"was",
+				"wasRead"
+			],
+			[
+				"spot",
+				"spottiappUserObjectId"
+			],
+			[
+				"mess",
+				"messageObject"
+			],
+			[
+				"postQu",
+				"postQuery1"
+			],
+			[
+				"postqu",
+				"postQuery4"
+			],
+			[
+				"change",
+				"changePostsTaggedIn"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"delet",
+				"deleteFriendships"
+			],
+			[
+				"dele",
+				"deletePosts"
+			],
+			[
+				"delete",
+				"deleteGroups"
+			],
+			[
+				"quer",
+				"queryCompleted"
+			],
+			[
+				"frie",
+				"friends1"
+			],
+			[
+				"nu",
+				"numberOfAds"
+			],
+			[
+				"readB",
+				"readByUser1"
+			],
+			[
+				"is",
+				"isNew"
+			],
+			[
+				"frien",
+				"friendship"
+			],
+			[
+				"userq",
+				"userQuery1"
+			],
+			[
+				"friendsip",
+				"friendshipQuery1"
+			],
+			[
+				"friendsh",
+				"friendshipQuery1"
+			],
+			[
+				"userqy",
+				"userQuery2"
+			],
+			[
+				"userQ",
+				"userQuery1"
+			],
+			[
+				"userI",
+				"userID1"
+			],
+			[
+				"pus",
+				"pushQuery"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"wi",
+				"withinKilometers"
+			],
+			[
+				"notif",
+				"notificationGeneral"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"group",
+				"groupQuery"
+			],
+			[
+				"grou",
+				"groupQuery"
+			],
+			[
+				"gro",
+				"groups"
+			],
+			[
+				"postQ",
+				"postQuery"
+			],
+			[
+				"last",
+				"lastShownAt"
+			],
+			[
+				"userid",
+				"userID2"
+			],
+			[
+				"friends",
+				"Friends"
+			],
+			[
+				"inc",
+				"inCommon"
+			],
+			[
+				"inco",
+				"inCommonCount"
+			],
+			[
+				"cal",
+				"callingUser"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"object",
+				"objectId"
+			],
+			[
+				"push",
+				"pushQuery"
+			],
+			[
+				"comm",
+				"commandName"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"facebook",
+				"facebookLikes"
+			],
+			[
+				"twi",
+				"twitterFollowers"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"whata",
+				"whatappened"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/HDD/Downloads/themeforest-8731815-signature-one-page-html-resume-template/Signature"
+	],
+	"file_history":
+	[
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/models/user.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/models/advertisement.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/models/category.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/server.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/Gruntfile.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/controller/advertisementController.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/controller/userController.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/package.json",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/.jshintrc",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/routing/userRouting.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/node_modules/vogels/lib/index.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/dist/server.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/lib/controllers/test.js",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/Default (OSX).sublime-keymap",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/body-parser/node_modules/iconv-lite/README.md",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/node_modules/grunt-contrib-copy/node_modules/chalk/readme.md",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/shelljs/README.md",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/node_modules/node-restify-swagger/.jshintrc",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/app/models/bear.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/server.js",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/views/layout.jade",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/features/support/world.js",
+		"/Users/gertjanleemans/workspace/dailyvirginityserver/.editorconfig",
+		"/Users/gertjanleemans/workspace/DailyVirginity/.editorconfig",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/assets/scss/_app.scss",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/jade/partials/_home.jade",
+		"/Users/gertjanleemans/workspace/DailyVirginity/.jshintrc",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/assets/js/viewModels/sammyViewModel.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/assets/js/main.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/assets/js/config.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/Gruntfile.js",
+		"/Users/gertjanleemans/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/Users/gertjanleemans/workspace/DailyVirginity/package.json",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/assets/scss/main.scss",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/jade/partials/_bootstrap_layout.jade",
+		"/Users/gertjanleemans/workspace/DailyVirginity/dist/assets/css/main.css",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/jade/partials/_about.jade",
+		"/Users/gertjanleemans/workspace/DailyVirginity/bower.json",
+		"/Users/gertjanleemans/workspace/DailyVirginity/gruntfile.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/sass/style.scss",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app/assets/sass/style.scss",
+		"/Users/gertjanleemans/workspace/DailyVirginity/app.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/views/index.jade",
+		"/Users/gertjanleemans/workspace/DailyVirginity/bin/www",
+		"/Users/gertjanleemans/workspace/DailyVirginity/index.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/server.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/router.js",
+		"/Users/gertjanleemans/workspace/DailyVirginity/router.ks",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/stylesheets/styles.css",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/.htaccess",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/sass/_mixins.scss",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/jquery.event.swipe.min.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/jquery.event.move.min.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/boostrap.min.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/send.php",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/jquery.lazyload.min.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/Template/index.html",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/jquery.event.swipe.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/jquery.event.move.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/javascripts/jquery.mousewheel.min.js",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/sass/_bootstrap-variables.scss",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/watkosteenapp/sass/styles.scss",
+		"/Users/gertjanleemans/workspace/watkosteenapp.nl/index.html",
+		"/Users/gertjanleemans/Library/Developer/CoreSimulator/Devices/802B7981-508A-465F-B834-0834C4103DE1/data/Containers/Data/Application/AB304235-C14F-42C0-A0A0-308E8BB9D7D6/Library/Caches/360-floor-11/index.html",
+		"/Users/gertjanleemans/Library/Developer/CoreSimulator/Devices/2B3D7D44-603D-4264-B1F4-2751CC0289AB/data/Containers/Data/Application/9F1BCD67-584C-4F49-9725-03997DA46ACE/Library/Caches/360-floor-71/index.html",
+		"/Users/gertjan/workspace/Spottiapp/Parse/parse/cloud/main.js",
+		"/Users/gertjan/workspace/Spottiapp/Parse/parse/config/global.json",
+		"/Users/gertjan/workspace/Spottiapp/iOS/Spottiapp/Pods/MKStoreKit/README.mdown",
+		"/Users/gertjan/workspace/WhatAppened/Parse/cloud/main.js",
+		"/Users/gertjan/workspace/Digitalisma.com/controller/WhatWeMadePageController.php",
+		"/Users/gertjan/workspace/Digitalisma.com/controller/WhatWeDoPageController.php",
+		"/Users/gertjan/workspace/Digitalisma.com/min/config.php",
+		"/Users/gertjan/workspace/Digitalisma.com/routing/UrlInterpreter.php",
+		"/Users/gertjan/workspace/Digitalisma.com/view/whatwedo/detail.php",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/gertjanleemans.sublime-project",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/package.json",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/Gruntfile.js",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/index.php",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/indiegogo.js",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/css/style.css",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/css/style.scss",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/index2.php",
+		"/Users/gertjan/workspace/Gertjanleemans.com/v2/jquery-1.8.2.min.js",
+		"/Users/gertjan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\n        ",
+			"\n\n                    ",
+			"\",\n            \"",
+			"name",
+			"SERVER_PORT",
+			"test",
+			"yeoman",
+			"yeomanConfig",
+			"focus",
+			"dist/",
+			"5px",
+			"vriend",
+			"q=",
+			"share-dialog",
+			"console.log",
+			"href=\"#\"",
+			"data",
+			"src=\"",
+			"<h4>",
+			"bootstra",
+			"assets",
+			"data-original",
+			"992",
+			"99",
+			"verti",
+			"background-overl",
+			"footer",
+			".col-md-8",
+			"contai",
+			"radiu",
+			"center",
+			"opacity",
+			".choices",
+			"3em",
+			"992",
+			"selec",
+			"btn-default",
+			"button",
+			"name",
+			"unknown",
+			"0.35",
+			"col-",
+			"col",
+			"blur",
+			"h1",
+			"messageUnreadCount",
+			"messageunre",
+			"geopoint",
+			"addprivate",
+			"taggedUser",
+			"taggedPost",
+			"addPrivate",
+			"addprivate",
+			"push",
+			"userSetti",
+			"increment",
+			"date",
+			"addpriv",
+			"afterSave",
+			"beforedelet",
+			"alert:",
+			"firstname",
+			".user",
+			"op()",
+			"added()",
+			"beforesa",
+			"relation",
+			"relation(",
+			"pase",
+			"or",
+			"distance",
+			"date",
+			"venue",
+			"dirtykeys",
+			",\n",
+			"back",
+			".fixed-nav",
+			"a:hover",
+			".post-footer",
+			"a.btn",
+			"a:hover",
+			"post-title",
+			".share",
+			"inner",
+			"site-head"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"',\n'",
+			"'\n\n                    ,'",
+			"',\n            '",
+			"paths",
+			"pathsConfig",
+			"data-original=\"",
+			"lazy-source",
+			"selector"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gertjanleemans.com.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"cloud/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
