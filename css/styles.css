@@ -821,7 +821,7 @@ a.hire-btn:hover{
 /* 5.1 - Parallax Backgrounds
 ------------------------------------------------------------------------*/
 #status{
-    background-image: url('http://placehold.it/1900x1024');
+    background-image: url('img/background-4.jpg');
 }
 #wprocess{
     background-image: url('img/background-2.jpg');
@@ -1056,7 +1056,7 @@ a.hire-btn:hover{
 .timeline-post{
     padding: 10px;
 }
-.timeline-post-left .timeline-post:first-child{
+.timeline-post-right .timeline-post:first-child{
     margin-top: 65px;
 }
 .timeline-post-content-holder{
@@ -1825,9 +1825,6 @@ a.hire-btn:hover{
 }
 /* 16 - clients 
 ------------------------------------------------------------------------*/
-#clients {
-    background-color: #F0F2F7;
-}
 .clients_logo li{
     margin-bottom: 30px;
 }
