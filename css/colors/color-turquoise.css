@@ -75,3 +75,20 @@ a:hover { color:#0E826B;}
     color: #FFFFFF;
     outline: none;
 }
+.loader-color{
+    border-color: #1ABC9C !important;
+}
+.timeline-post-left > .timeline-post:hover > .timeline-post-content-holder > .timeline-post-icon, 
+.timeline-post-right > .timeline-post:hover > .timeline-post-content-holder > .timeline-post-icon, 
+.timeline-post span.timeline-duration:before, 
+.iconspace,
+.left-service .service-icon,
+.right-service .service-icon,
+.project-image .overlay,
+.project-image .overlay:hover,
+a.hire-btn{
+    background-color: #1ABC9C;    
+}
+.count .cicon{
+    color: #1ABC9C;
+}

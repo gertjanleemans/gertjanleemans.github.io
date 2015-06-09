@@ -1,8 +1,8 @@
 <?php
 if(isset($_POST['email'])) {
      
-    $email_to = "mymail@gmail.com";
-    $email_subject = "Your email subject line";
+    $email_to = "gertjan@digitalisma.com";
+    $email_subject = "Gertjanleemans.com contact form";
      
     function died($error) {
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
@@ -45,7 +45,7 @@ $headers = 'From: '.$email."\r\n".
 ?>
  
  
-<div style="text-align:center;">Thank you for contacting us. We will be in touch with you very soon.</div>
+<div style="text-align:center;">Thank you for contacting me. I will be in touch with you very soon.</div>
  
 <?php
 }
